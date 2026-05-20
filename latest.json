@@ -1,0 +1,13 @@
+{
+  "version": "2.71.0",
+  "releasedAt": "2026-05-19",
+  "releaseUrl": "https://github.com/darkstavern-code/last-call-replay/releases/tag/v2.71.0",
+  "installerUrl": "https://github.com/darkstavern-code/last-call-replay/releases/download/v2.71.0/Last-Call-Replay-Setup-2.71.0.exe",
+  "zipUrl": "https://github.com/darkstavern-code/last-call-replay/releases/download/v2.71.0/last-call-replay-desktop-2.71.zip",
+  "releaseNotes": [
+    "Added manual update checker in Settings/About.",
+    "Added safer progress status handling.",
+    "Improved recorder status behavior.",
+    "Continued Solo Shuffle round handling fixes."
+  ]
+}
